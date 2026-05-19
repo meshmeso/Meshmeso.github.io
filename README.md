@@ -17,3 +17,18 @@ Interactive slicers allow users to filter the dashboard by year, region, categor
 
 **Dashboard Overview:**
 ![USA](USA.png)
+
+# Project 2 
+
+**Title:** [SQL Data Definition Language-Sales Manager
+
+**SQL Code:** [Sales Manager](https://github.com/meshmeso/meshmeso.github.io/blob/main/Sales_Manager.SQL)
+
+**SQL Tools:** SQL Server Management Studio (SSMS)
+
+**SQL Skills Used:** SQL Query Writing, Data Manipulation (SELECT, UPDATE, DELETE), Table Modification using ALTER TABLE, Data Filtering and Retrieval, Data Cleaning and Transformation, Conditional Querying with WHERE, AND, OR, IN Operators, Database Management using SQL Server and SSMS.
+
+**Project Description:** This SQL project focused on database management, data manipulation, and querying using Microsoft SQL Server. The project involved modifying existing tables, adding and deleting columns, changing data types, updating records, and filtering datasets to retrieve meaningful information. Various SQL queries were used to analyse workplace safety data and sales manager records, demonstrating practical skills in data cleaning, transformation, and database administration.
+
+**Technology used:** Microsoft SQL Server
+
